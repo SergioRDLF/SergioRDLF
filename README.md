@@ -39,7 +39,7 @@
   <a style="margin-right: 15px;" href="mailto:rodrigues.sergiofilho@gmail.com" target="_blank">
     <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=50" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/sergiordlf/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/sergiordfl/" target="_blank">
     <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=50" /> 
   </a>
   <a style="margin-right: 15px;" href="https://github.com/SergioRDLF" target="_blank">
