@@ -11,7 +11,7 @@
   <li>🖥️ Quando se trata de <strong>front-end</strong> gosto de utilizar o <strong>ReactJS</strong>, pois gosto de pensar na logica e na reutilização dos componentes. Estou aprendendo a aplicar algumas ferramentas, como o <strong>Redux</strong> e <strong>Hooks</strong>, para facilitar o gerenciamento dos estados e deixar a aplicação mais escalonavél.</li>
   <li>🤖 Estou aprendendo cada vez sobre <strong>testes</strong> e a impotância de desenvolver uma <strong>aplicação voltada para testes</strong>. Para isso estou utilizando o <strong>Jest</strong>, <strong>Mocha</strong> e <strong>Sinon</strong>.</li>
   <li>💬 Adoro ajudar e compartilhar histórias com pessoas, se eu puder te ajudar em algo é só pedir que será um prazer ajudar. </li>
-  <li>🚀 Sempre em busca de <strong>aumentar meu conhecimento</strong> e me tornar cada vez mais compentente</li>
+  <li>🚀 Sempre em busca de <strong>aumentar meu conhecimento</strong> e me tornar cada vez mais compentente.</li>
 </ul>
 
 ## Tecnologias e Ferramentas
