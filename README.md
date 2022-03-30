@@ -1,6 +1,6 @@
 ## Sobre mim
 <div align="justify">
-  Olá, sou <strong>Sérgio Rodrigues</strong>, sou de Recife, Pernambuco. Na universidade, durante o curso de Engenharia Mecânica, tive a oportunidade de entrar em contato com programação, e a cada algoritmo que escrevia sentia uma sensação de descobrir um grande poder para solucionar problemas de maneiras mais ágil e assertiva. Hoje, me dedico a estudar para me tornar um <strong>Desenvolvedor Full Stack</strong> cada dia mais capaz. 
+  Olá, sou <strong>Sérgio Rodrigues</strong>, sou de Recife, Pernambuco. Na universidade, durante o curso de Engenharia Mecânica, tive a oportunidade de entrar em contato com programação, e a cada algoritmo que escrevia sentia uma sensação de descobrir um grande poder para solucionar problemas de maneira mais ágil e assertiva. Hoje, me dedico a estudar para me tornar um <strong>Desenvolvedor Full Stack</strong> cada dia mais capaz. 
 </div>
 
 ## Curiosidades e interesses
